@@ -2,7 +2,7 @@
 Simple chat app created using HTML, CSS, JavaScript, Node.js, Express, Socket.io.
 ## To run
 Download the zip or clone the repo. \
-`cd` to `chat-app`\ 
+`cd` to `chat-app`
 run `npm i`\
 The server will run on port 3000
 1. Go to `localhost:3000` in your browser.
